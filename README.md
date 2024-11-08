@@ -2,19 +2,19 @@
 
 > Este proyecto tratará de una página web sencilla la cual contendrá títulos, imágenes, links, etc.
 
-## 📌 Índice
+### 📌 Índice
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Contacto](#contacto)
 
-## 🛠️ Tecnologías Utilizadas
+### 🛠️ Tecnologías Utilizadas
 
 Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 
 - **Lenguajes**: [HTML, CSS, JavaScript]
 - **Herramientas de Desarrollo**: [Git, VS Code]
 
- ## 📞 Contacto
+ ### 📞 Contacto
   
 ¿Tienes preguntas o comentarios? Puedes contactarme en:
 - Correo: jssmedina09@gmail.com
